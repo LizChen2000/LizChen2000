@@ -2,7 +2,7 @@
 - 👀 I’m interested in Texas Hold'em AI coding~
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me julia82128@gmail.cpm
+- 📫 How to reach me julia82128@gmail.com
 
 <!---
 LizChen2000/LizChen2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
